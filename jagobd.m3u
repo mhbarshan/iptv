@@ -74,6 +74,10 @@ https://livess.ncare.live/live-orgin/nrb-eu.stream/chunks.m3u8
 https://livess.ncare.live/live-orgin/nexustv.stream/chunks.m3u8
 #EXTINF:-1 ,News 24 [Jagobd]
 https://livess.ncare.live/live-orgin/news24local.stream/chunks.m3u8
+#EXTINF:-1 ,News 24
+http://allinonereborn.tech/doordarshan.m3u8?id=3140
+#EXTINF:-1 ,News 24 [Youtube]
+https://anym3u8player.com/youtube.php/id/6647d6c5c241c.m3u8
 #EXTINF:-1 ,NASA TV [Jagobd]
 https://livess.ncare.live/live-orgin/nasatv.stream/chunks.m3u8
 #EXTINF:-1 ,NAN TV [Jagobd]
@@ -114,3 +118,10 @@ https://livess.ncare.live/live-orgin/dwnews.stream/chunks.m3u8
 https://livess.ncare.live/live-orgin/ekusheytv-8-org.stream/chunks.m3u8
 #EXTINF:-1 ,Ekushey Tv [Ekushey server]
 https://ekusheyserver.com/etvlivesn.m3u8
+#EXTINF:-1 ,DBC News[Jagobd]
+https://livess.ncare.live/live-orgin/dbcnews.stream/chunks.m3u8
+#EXTINF:-1 ,Desh Tv[Jagobd]
+https://livess.ncare.live/live-orgin/deshtv.stream/chunks.m3u8
+#EXTINF:-1 ,Desh Tv
+https://anym3u8player.com/youtube.php/id/6647d66fbf640.m3u8
+
